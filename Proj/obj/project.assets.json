@@ -3441,11 +3441,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Docs\\Study\\Code\\VS Com\\C#\\Event hub back-end\\Event hub back-end\\Event hub back-end.csproj",
+      "projectUniqueName": "D:\\Docs\\Study\\Code\\VS Com\\C#\\Event hub back-end\\Event Hub API Web\\Proj\\Event hub back-end.csproj",
       "projectName": "Event hub back-end",
-      "projectPath": "D:\\Docs\\Study\\Code\\VS Com\\C#\\Event hub back-end\\Event hub back-end\\Event hub back-end.csproj",
+      "projectPath": "D:\\Docs\\Study\\Code\\VS Com\\C#\\Event hub back-end\\Event Hub API Web\\Proj\\Event hub back-end.csproj",
       "packagesPath": "C:\\Users\\dell\\.nuget\\packages\\",
-      "outputPath": "D:\\Docs\\Study\\Code\\VS Com\\C#\\Event hub back-end\\Event hub back-end\\obj\\",
+      "outputPath": "D:\\Docs\\Study\\Code\\VS Com\\C#\\Event hub back-end\\Event Hub API Web\\Proj\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

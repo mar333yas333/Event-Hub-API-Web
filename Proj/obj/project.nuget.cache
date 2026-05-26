@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3FQkLczVN+U=",
+  "dgSpecHash": "Oi3lBXb4/bA=",
   "success": true,
-  "projectFilePath": "D:\\Docs\\Study\\Code\\VS Com\\C#\\Event hub back-end\\Event hub back-end\\Event hub back-end.csproj",
+  "projectFilePath": "D:\\Docs\\Study\\Code\\VS Com\\C#\\Event hub back-end\\Event Hub API Web\\Proj\\Event hub back-end.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dell\\.nuget\\packages\\azure.core\\1.47.1\\azure.core.1.47.1.nupkg.sha512",
     "C:\\Users\\dell\\.nuget\\packages\\azure.identity\\1.14.2\\azure.identity.1.14.2.nupkg.sha512",

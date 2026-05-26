@@ -10,22 +10,22 @@ namespace EventHubBackend.Models
         public Guid Id { get; set; } = Guid.NewGuid();
 
         [Required, MaxLength(100)]
-        public string FullName { get; set; }
+        public string FullName { get; set; } = null!;
 
         [Required,EmailAddress]
-        public string Email { get; set; }
+        public string Email { get; set; } = null!;
 
         [Required]
-        public string PasswordHash { get; set; }
+        public string PasswordHash { get; set; } = null!;
 
-        [Required]
+
         public UserRole Role { get; set; }
 
         public DateTime CreatedAt { get; set; } = DateTime.UtcNow;
 
-        public List<Event> OrganizedEvents { get; set; }
-        public List<Session> Sessions { get; set; }
-        public List<Registration> Registrations { get; set; }
-        public List<Notification> Notifications { get; set; }
+        public List<Event> OrganizedEvents { get; set; } = new();
+        public List<Session> Sessions { get; set; } = new();
+        public List<Registration> Registrations { get; set; } = new();
+        public List<Notification> Notifications { get; set; } = new();
     }
 }
