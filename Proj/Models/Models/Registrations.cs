@@ -2,7 +2,7 @@
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
-namespace Event_hub_back_end.Models.Models
+namespace Event_hub_back_end.Models
 {
     public class Registration
     {

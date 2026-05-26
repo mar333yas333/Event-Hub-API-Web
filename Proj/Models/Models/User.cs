@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace Event_hub_back_end.Models.Models
+namespace Event_hub_back_end.Models
 {
     public enum UserRole { Admin, Speaker, Attendee }
 

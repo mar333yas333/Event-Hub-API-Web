@@ -1,7 +1,7 @@
-﻿using Event_hub_back_end.Models.Models;
+﻿using Event_hub_back_end.Models;
 using Microsoft.EntityFrameworkCore;
 
-namespace Event_hub_back_end.Models.Data
+namespace Event_hub_back_end.Data
 {
     public class AppDbContext : DbContext
     {

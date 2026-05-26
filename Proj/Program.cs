@@ -1,5 +1,4 @@
-using Event_hub_back_end.Models.Data;
-using EventHubBackend.Data;
+using Event_hub_back_end.Data;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
